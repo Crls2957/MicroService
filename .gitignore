@@ -9,3 +9,6 @@
 *.rar
 *.tar.gz
 
+/venv
+
+
