@@ -1,5 +1,6 @@
 package com.crls.user.mapper;
 
+
 import com.crls.thrift.user.UserInfo;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
